@@ -1,0 +1,110 @@
+2024-06-02 15:42:36,491 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 15:42:36,501 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 15:42:36,688 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 15:42:36,688 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 15:42:41,647 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 15:42:41,647 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 15:42:41,648 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 15:42:44,742 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 15:42:44,957 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTest@123
+2024-06-02 15:42:45,187 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 15:42:47,581 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 15:42:47,605 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 15:42:47,806 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Pass
+2024-06-02 15:42:47,806 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Completed
+
+2024-06-02 15:44:17,052 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 15:44:17,066 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 15:44:17,298 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 15:44:17,298 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 15:44:18,436 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 15:44:18,437 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 15:44:18,437 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 15:44:19,126 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 15:44:19,255 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTest@123
+2024-06-02 15:44:19,366 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 15:44:21,815 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 15:44:21,842 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 15:44:22,030 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Pass
+2024-06-02 15:44:22,030 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Completed
+
+2024-06-02 15:52:31,702 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 15:52:31,713 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 15:52:31,887 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 15:52:31,887 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 15:52:58,825 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 15:52:58,826 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 15:52:58,827 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 15:52:59,444 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 15:52:59,604 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTest@123
+2024-06-02 15:52:59,723 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 15:55:05,952 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 15:55:05,972 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 15:55:06,133 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Pass
+2024-06-02 15:55:06,133 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Completed
+
+2024-06-02 16:17:41,519 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 16:17:47,693 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 16:17:47,863 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 16:17:47,863 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 16:17:51,800 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 16:17:51,800 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 16:17:51,801 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 16:18:01,695 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 16:18:01,876 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTest@1231
+2024-06-02 16:18:02,042 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 16:18:03,151 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 16:18:03,183 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Fail
+2024-06-02 16:18:03,183 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 17:47:25,855 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 17:47:25,855 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 17:47:25,855 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 17:47:26,450 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 17:47:26,623 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTest@123
+2024-06-02 17:47:26,750 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 17:47:51,189 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 17:47:51,205 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 17:47:51,366 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Pass
+2024-06-02 17:47:51,367 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Completed
+
+2024-06-02 17:50:30,342 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 17:50:30,348 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 17:50:30,348 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 17:50:31,101 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 17:50:31,267 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTTest@123
+2024-06-02 17:50:31,419 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 17:51:05,295 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 17:51:05,319 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Fail
+2024-06-02 17:51:05,319 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 17:56:39,014 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 17:56:39,028 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 17:56:39,184 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 17:56:39,184 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 17:56:50,642 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 17:56:50,642 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 17:56:50,642 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 17:56:51,237 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 17:56:51,407 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTTest@123
+2024-06-02 17:56:51,559 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 17:56:52,650 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 17:56:52,679 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Fail
+2024-06-02 17:56:52,679 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
+2024-06-02 18:08:03,129 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Check Page Title
+2024-06-02 18:08:15,104 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Taking Screenshot
+2024-06-02 18:08:15,277 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Pass
+2024-06-02 18:08:15,277 : INFO : Test_CredKart_Login : test_CredKart_url_001 : Testcase test_CredKart_url_001 is Completed
+
+2024-06-02 18:08:42,405 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is started
+2024-06-02 18:08:42,405 : INFO : Test_CredKart_Login : test_user_login_002 : Opening browser
+2024-06-02 18:08:42,405 : INFO : Test_CredKart_Login : test_user_login_002 : Click On login Link
+2024-06-02 18:08:43,203 : INFO : Test_CredKart_Login : test_user_login_002 : Enter Email2may2024@gmail.com
+2024-06-02 18:08:43,414 : INFO : Test_CredKart_Login : test_user_login_002 : Enter PasswordTTest@123
+2024-06-02 18:08:43,574 : INFO : Test_CredKart_Login : test_user_login_002 : Click Login Button
+2024-06-02 18:08:44,760 : INFO : Test_CredKart_Login : test_user_login_002 : Verify Login Stauts
+2024-06-02 18:08:44,785 : INFO : Test_CredKart_Login : test_user_login_002 : Testcase test_user_login_002 is Fail
+2024-06-02 18:08:44,785 : INFO : Test_CredKart_Login : test_user_login_002 : Taking screenshot
